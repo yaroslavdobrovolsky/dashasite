@@ -1,0 +1,87 @@
+a{
+	color: white;
+}
+
+.dasha{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 64pt;
+    color: white;
+    word-break: break-all;
+}
+
+.dasha#ytl{
+	top: 340%;
+	width: 100% ;
+	text-align: center;
+	background-color: pink;
+}
+
+.dasha#kisa{
+	word-break: break-word;
+	font-size: 22pt;
+	text-align: center;
+}
+
+
+#prikoli{
+	position: absolute;
+	top: 100%;
+	left: 25%;
+}
+
+
+#lol{
+	position: absolute;
+	top: 120%;
+	width: 100% ;
+	text-align: center;	
+	word-break: break-all;
+	left: 0px;
+}
+
+#mnogo{
+	font-size: 36pt;
+}
+
+.cotek{	
+	width:20%;
+	border-radius: 40px;
+}
+
+.cotek#cotekone{
+	left: 10%;
+}
+
+.cotek#cotektwo{
+	left: 70%;
+}
+
+#ticotek{
+	margin-top: 30%;
+	font-size: 64%;
+    color: white;
+    word-break: break-word;
+}
+
+#bg{
+	width: 100%;
+	position: absolute;
+	top: 160%;
+	left: 0px;
+}
+
+
+#obziv{
+    font-size: 22pt;
+    color: white;
+    text-align: center;
+
+}
+
+body{
+	background-color: #1F1F1F;
+}
