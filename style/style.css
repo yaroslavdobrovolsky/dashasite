@@ -2,6 +2,7 @@ a{
 	color: white;
 }
 
+
 .dasha{
     position: absolute;
     top: 40%;
@@ -13,8 +14,13 @@ a{
     word-break: break-all;
 }
 
+#coti{
+	width: 40%;
+	height: auto;
+}
+
 .dasha#ytl{
-	top: 340%;
+	top: 385%;
 	width: 100% ;
 	text-align: center;
 	background-color: pink;
@@ -24,6 +30,7 @@ a{
 	word-break: break-word;
 	font-size: 22pt;
 	text-align: center;
+	top: 50%;
 }
 
 
@@ -81,6 +88,7 @@ a{
     text-align: center;
 
 }
+
 
 body{
 	background-color: #1F1F1F;
